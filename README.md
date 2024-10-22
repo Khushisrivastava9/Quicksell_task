@@ -41,7 +41,9 @@ In terms of functionality, the application seamlessly handles the dynamic groupi
 
 1. **Clone the Repository:**
 
-
+ ```bash
+   cd https://github.com/Khushisrivastava9/Quicksell_task
+   ```
 
 2. **Navigate to the Project Directory:**
 
