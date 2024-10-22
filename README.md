@@ -41,7 +41,7 @@ In terms of functionality, the application seamlessly handles the dynamic groupi
 
 1. **Clone the Repository:**
 
- ```bash
+   ```bash
    cd https://github.com/Khushisrivastava9/Quicksell_task
    ```
 
